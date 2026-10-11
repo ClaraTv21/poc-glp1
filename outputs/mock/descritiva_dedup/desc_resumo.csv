@@ -1,0 +1,13 @@
+﻿indicador,valor
+n_anuncios,250
+n_textos_unicos,250
+palavras_media,13.5
+palavras_mediana,13.0
+pct_com_emoji,44.8
+n_anunciantes,69
+anuncios_por_anunciante_media,3.62
+anuncios_por_anunciante_mediana,3.0
+pct_dos_10_maiores_anunciantes,41.6
+data_mais_antiga,2025-01-02
+data_mais_recente,2026-06-30
+anuncios_sem_data_valida,0

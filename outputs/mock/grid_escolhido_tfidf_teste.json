@@ -1,0 +1,18 @@
+{
+  "parametros": {
+    "min_cluster_size": 3,
+    "min_samples": 2,
+    "n_neighbors": 10,
+    "n_components": 5
+  },
+  "regra": "Regra: outliers <= 30.0%, >= 3 topicos; maior coerencia (empate se diferenca < 0.01). 48 de 48 modelos passaram no filtro; 2 ficaram no empate.",
+  "medida_coerencia": "npmi",
+  "metricas": {
+    "n_topicos": 23,
+    "pct_outliers": 0.8,
+    "coerencia": 0.2357,
+    "diversidade": 0.5291
+  },
+  "dedup": true,
+  "tfidf_teste": true
+}
